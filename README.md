@@ -10,5 +10,5 @@ O objetivo principal consiste em criarmos a biblioteca [neural_networks](neural_
 
 Iremos utilizar dois conjuntos de dados: um para classificação e um para regressão.
 
-**Classificação**: [Dados do Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
-**Regressão**: [Dados do Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
+- **Classificação**: [Dados do Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
+- **Regressão**: [Dados do Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
