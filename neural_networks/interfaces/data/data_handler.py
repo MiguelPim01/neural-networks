@@ -17,9 +17,7 @@ class IDataHandler(ABC):
         
     def load_data_from_kaggle(self):
         """
-        Carrega um dataset do kaggle para a memória da máquina.
-        
-        Se não for usar essa função, apenas declare ela no método.
+        Carrega um dataset do kaggle e persiste ele localmente.
         """
         print("Fazendo download de dados do repositório Kaggle: ", self.kaggle_link)
         

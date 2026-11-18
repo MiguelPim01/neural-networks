@@ -6,6 +6,12 @@ Este repositório foi criado com princípios unicamente didáticos. O objetivo �
 
 O objetivo principal consiste em criarmos a biblioteca [neural_networks](neural_networks). Nós iremos construir ela e utilizar as suas funcionalidades para treinarmos um modelo para um problema de regressão e um modelo para o problema de classificação.
 
+## Arquitetura
+
+A imagem abaixo mostra como funciona a arquitetura do projeto:
+
+
+
 ## Conjunto de Dados
 
 Iremos utilizar dois conjuntos de dados: um para classificação e um para regressão.
